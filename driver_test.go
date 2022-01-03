@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"testing"
 
-	_ "github.com/briansorahan/spatialite" // Register the spatialite driver.
+	_ "github.com/Trillium-Solutions/spatialite" // Register the spatialite driver.
 )
 
 func TestOpen(t *testing.T) {
