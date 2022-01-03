@@ -2,7 +2,7 @@
 
 Go driver for libspatialite. 
 
-Minor patches to [https://github.com/briansorahan/spatialite](https://github.com/briansorahan/spatialite)
+Minor patches to [https://github.com/briansorahan/spatialite](https://github.com/briansorahan/spatialite).
 
 ## Install
 
